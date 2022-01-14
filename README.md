@@ -7,6 +7,7 @@ It is an [ISO](https://drive.google.com/file/d/1QNp9FvlbprhyVvC_pVQYPAk_OvHoOUtJ
 * Normal and custom installation (image and style changes only).
 * It only allows NON-UEFI installation. 
 * Installation time 17 min.
+* Installed packages will be updated frequently from [nextspace-packages](https://github.com/armm77/nextspace-packages)
 
 ## To fix.
 * UEFI installation.
