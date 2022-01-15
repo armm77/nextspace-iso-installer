@@ -4,6 +4,7 @@ It is an [ISO](https://drive.google.com/file/d/1QNp9FvlbprhyVvC_pVQYPAk_OvHoOUtJ
 ## Characteristics:
 * Minimal installation.
 * Default user configured `me` and his password is `nextspace`.
+* By default the `root` user is free to set a password. (don't forget to do it in the installation)
 * Normal and custom installation (image and style changes only).
 * It only allows NON-UEFI installation. 
 * Installation time 17 min.
