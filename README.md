@@ -1,5 +1,5 @@
 # nextspace-iso-installer
-It is an ISO installation image (no oficial), modified to make an easy installation of the [NEXTSPACE](https://github.com/trunkmaster/nextspace) Desktop Project.
+It is an ISO installation image (unofficial), modified to make an easy installation of the [NEXTSPACE](https://github.com/trunkmaster/nextspace) Desktop Project.
 * Fedora Linux 42 [ISO](https://drive.google.com/file/d/1btxJH80g0y8Rg2rgby_vhByumbD0BOqN/view?usp=sharing) image.
 
 ## Characteristics:
