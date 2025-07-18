@@ -9,3 +9,9 @@ It is an ISO installation image (unofficial), modified to make an easy installat
 * Option: [Standard](https://github.com/trunkmaster/nextspace/commits/master) installation, packages built from official sources.
 * Installed packages will be updated frequently from [nextspace-packages](https://github.com/armm77/nextspace-packages)
 
+## Installation Considerations:
+* Do not select any other desktop (Gnome, KDE, etc.) to avoid conflicts with NEXTSPACE.
+* Set the root user credentials.
+* Network and disk settings are free for any changes.
+* After installation, you can change the password for the "me" user.
+
